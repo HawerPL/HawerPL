@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Cześć! Jestem Hubert Sobczyński (HawerPL)
 
-<!--
-**HawerPL/HawerPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## O mnie
 
-Here are some ideas to get you started:
+DevOps Engineer z wykształceniem informatycznym (specjalność programowanie). Na co dzień automatyzuję, wdrażam i rozwijam aplikacje z wykorzystaniem nowoczesnych narzędzi chmurowych i konteneryzacji.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Programuję głównie w Pythonie (Flask, FastAPI)
+- 🐳 Bardzo dobrze znam Dockera
+- ☸️ Znam podstawy Kubernetes i Helm
+- 💡 Zawsze chętnie uczę się nowych technologii
+
+## Wyróżnione projekty
+
+### [PodInspector](https://github.com/HawerPL/PodInspector)
+Aplikacja pokazująca moją znajomość Helma oraz podstawy FastAPI. W planach jest rozbudowa projektu o obsługę pełnego procesu CI/CD.
+
+### [docker-registry-ui](https://github.com/HawerPL/docker-registry-ui)
+Moja praca inżynierska — aplikacja służąca do zarządzania Docker Registry poprzez prosty interfejs użytkownika. Kod powstawał podczas studiów.
+
+## Kontakt
+
+- [LinkedIn: Hubert Sobczyński](https://www.linkedin.com/in/hubert-sobczyński-a32807241)
+
+---
+
+_Stawiam na rozwój, automatyzację i dobre praktyki!_
