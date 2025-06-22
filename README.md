@@ -1,4 +1,4 @@
-# 👋 Cześć! Jestem Hubert Sobczyński (HawerPL)
+# 👋 Cześć! Jestem Hubert (HawerPL)
 
 ## O mnie
 
