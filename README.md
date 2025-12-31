@@ -17,9 +17,6 @@ Aplikacja pokazująca moją znajomość Helma oraz podstawy FastAPI. W planach j
 ### [docker-registry-ui](https://github.com/HawerPL/docker-registry-ui)
 Moja praca inżynierska — aplikacja służąca do zarządzania Docker Registry poprzez prosty interfejs użytkownika. Kod powstawał podczas studiów.
 
-## Kontakt
-
-- [LinkedIn: Hubert Sobczyński](https://www.linkedin.com/in/hubert-sobczyński-a32807241)
 
 ---
 
