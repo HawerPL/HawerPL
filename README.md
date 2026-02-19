@@ -6,7 +6,7 @@ DevOps Engineer z wykształceniem informatycznym (specjalność programowanie). 
 
 - 🐍 Programuję głównie w Pythonie (Flask, FastAPI)
 - 🐳 Bardzo dobrze znam Dockera
-- ☸️ Znam podstawy Kubernetes i Helm
+- ☸️ Znam Kubernetes i Helm
 - 💡 Zawsze chętnie uczę się nowych technologii
 
 ## Wyróżnione projekty
