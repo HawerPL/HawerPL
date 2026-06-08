@@ -5,7 +5,7 @@
 DevOps Engineer z wykształceniem informatycznym (specjalność programowanie). Na co dzień automatyzuję, wdrażam i rozwijam aplikacje z wykorzystaniem nowoczesnych narzędzi chmurowych i konteneryzacji.
 
 - 🐍 Programuję głównie w Pythonie (Flask, FastAPI)
-- 🐳 Bardzo dobrze znam Dockera
+- 🐳 Bardzo dobrze znam tematy konteneryzacji (z procesów wytwarzania oprogramowania jak i wdrażania)
 - ☸️ Znam Kubernetes i Helm
 - 💡 Zawsze chętnie uczę się nowych technologii
 
@@ -19,12 +19,7 @@ Celem całego projektu jest stworzenie prostego _golden path_ dla CI/CD. Jednym 
 Playbook stworzony pod instalację i konfigurację Jenkinsa (z opcjonalnym LDAP). Celem projektu jest sprawne postawienie lokalnie Jenkinsa z elastyczną konfiguracją. Głównie pod inne projektu związane z rozwojem dziedziny DevOps.
 
 ## [DevSecOps](https://github.com/HawerPL/DevSecOps)
-Projekt stworzony do rozwoju umiejętności z zakresu bezpieczeństwa, który obecnie zawiera playbook do instalacji SonarQube. Następnie będzie posiadał playbook pod instalację OpenVas. W ramach tego powstanie też aplikacja ze zdefiniowanymi podatnościami, które będą raportowane przez przygotowane narzędzia. 
+Projekt stworzony do rozwoju umiejętności z zakresu bezpieczeństwa, który obecnie zawiera playbook do instalacji SonarQube oraz OpenVAS. W ramach tego powstanie też aplikacja ze zdefiniowanymi podatnościami, które będą raportowane przez przygotowane narzędzia. 
 
 ### [docker-registry-ui](https://github.com/HawerPL/docker-registry-ui)
 Moja praca inżynierska — aplikacja służąca do zarządzania Docker Registry poprzez prosty interfejs użytkownika. Kod powstawał podczas studiów.
-
-
----
-
-_Stawiam na rozwój, automatyzację i dobre praktyki!_
