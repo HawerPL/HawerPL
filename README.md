@@ -21,5 +21,5 @@ Playbook stworzony pod instalację i konfigurację Jenkinsa (z opcjonalnym LDAP)
 ## [DevSecOps](https://github.com/HawerPL/DevSecOps)
 Projekt stworzony do rozwoju umiejętności z zakresu bezpieczeństwa, który obecnie zawiera playbook do instalacji SonarQube oraz OpenVAS. W ramach tego powstanie też aplikacja ze zdefiniowanymi podatnościami, które będą raportowane przez przygotowane narzędzia. 
 
-### [docker-registry-ui](https://github.com/HawerPL/docker-registry-ui)
+## [docker-registry-ui](https://github.com/HawerPL/docker-registry-ui)
 Moja praca inżynierska — aplikacja służąca do zarządzania Docker Registry poprzez prosty interfejs użytkownika. Kod powstawał podczas studiów.
